@@ -1,0 +1,28 @@
+---
+title: "Meeting 1: What is statistical learning? (It's not learning stats)"
+subtitle: "date"
+---
+
+### Handout
+
+```{=html}
+<object data="handout1.pdf" type="application/pdf" width="100%" height="100%" style="min-height:50vh;">
+    <p>Looks like you don't have a PDF plugin for this browser.
+    That's not a problem, you can just <a href="handout1.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
+<br>
+
+### Links
+
+- Experience statistical learning for yourself: TODO TESTABLE EXPERIMENT
+- Research tasks spreadsheet: TODO SPREADSHEET
+
+<br>
+
+### Before our next meeting
+
+- Sign yourself up for a combination of tasks in the spreadsheet linked above.
+- Make a group whatsapp chat / email thread / discord server / whatever for organising yourselves and staying in touch with one another.

@@ -1,0 +1,29 @@
+---
+title: "Project FAQs"
+---
+
+**Lorem ipsum?**
+
+- Lorem ipsum.
+
+
+**Lorem ipsum?**
+
+- Lorem ipsum.
+
+
+**Lorem ipsum?**
+
+- Lorem ipsum.
+
+<br>
+
+<!-- 
+
+What's our research question?
+
+How many words should the introduction/methods/results/discussion/conclusion have?
+
+How many papers do we need to cite?
+
+-->

@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Minidiss 26/27"
+  description: "Project website for mini-dissertation 2026/27 with Dr. Elizabeth Pankratz"
+  page-navigation: true
+  sidebar:
+    style: "docked"
+    pinned: true
+    search: true
+    background: '#DFE7C3'
+    contents:
+      - href: index.qmd
+        text: "Home"
+      - section: "Course information"
+        contents:
+          - href: https://elizabethpankratz.github.io/
+            text: "Learn page"
+            target: "_blank"
+          - href: https://elizabethpankratz.github.io/
+            text: "Student handbook"
+            target: "_blank"
+          - info/contact.qmd
+          - info/faqs.qmd
+          
+      - section: "Meeting materials"
+        contents:
+          - href: meetings/1.qmd
+            text: '1: Statistical learning'
+            
+      - section: "Additional resources"
+        contents:
+          # - href: https://elizabethpankratz.github.io/
+            # text: "How to structure a paper"
+          # - href: https://uoepsy.github.io/dapr3/2627/flashcards/block1/reporting.html
+            # text: "How to report results"
+            target: "_blank"
+            
+format:
+  html:
+    theme: [flatly, theme.scss]
+    css: styles.css
+    toc: true
+
+callout-icon: false

@@ -1,0 +1,24 @@
+---
+title: "Psychology mini-dissertation 2026/27"
+subtitle: "Materials for the research project supervised by Dr. Elizabeth Pankratz"
+---
+
+lorem ipsum
+
+
+
+
+
+
+<!-- 
+ THEME COLOURS:
+ 
+ links (darkest):
+ #789C00
+ 
+ navbar (lightest):
+ #DFE7C3
+
+ medium:
+ #C9D79B
+-->
