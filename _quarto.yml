@@ -18,12 +18,13 @@ website:
         text: "Home"
       - section: "Course information"
         contents:
-          - href: https://elizabethpankratz.github.io/
+          - href: TODO
             text: "Learn page"
             target: "_blank"
-          - href: https://elizabethpankratz.github.io/
+          - href: TODO
             text: "Student handbook"
             target: "_blank"
+          - info/sched.qmd
           - info/contact.qmd
           - info/faqs.qmd
           
@@ -31,14 +32,29 @@ website:
         contents:
           - href: meetings/1.qmd
             text: '1: Statistical learning'
+          # - href: meetings/2.qmd
+          #   text: '2: Synthesising academic literature'
+          # - href: meetings/3.qmd
+          #   text: '3: Coherence in academic writing'
+          # - href: meetings/4.qmd
+          #   text: '4: Our experiment design'
+          # - href: meetings/5.qmd
+          #   text: '5: Applying for ethical approval'
+          # - href: meetings/6.qmd
+          #   text: '6: Live R practice analysis'
+          # - href: meetings/7.qmd
+          #   text: '7: TBD'
+          # - href: meetings/8.qmd
+          #   text: '8: Structuring and writing a research paper'
             
       - section: "Additional resources"
         contents:
-          # - href: https://elizabethpankratz.github.io/
-            # text: "How to structure a paper"
+          - href: https://elizabethpankratz.github.io/posts/01-phd-litreview/
+            text: "Synthesis matrix using Google/MS Forms"
+            target: "_blank"
           # - href: https://uoepsy.github.io/dapr3/2627/flashcards/block1/reporting.html
             # text: "How to report results"
-            target: "_blank"
+            # target: "_blank"
             
 format:
   html:

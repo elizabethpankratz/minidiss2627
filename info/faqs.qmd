@@ -2,28 +2,96 @@
 title: "Project FAQs"
 ---
 
-**Lorem ipsum?**
+If you have a project question that's not addressed here, then shoot Elizabeth an email!
 
-- Lorem ipsum.
-
-
-**Lorem ipsum?**
-
-- Lorem ipsum.
+If you have a question about the minidiss course overall, then you can contact the course organiser, [Dr. Aliff Mohd Sharif](https://edwebprofiles.ed.ac.uk/profile/aliffppls){target="_blank"}.
 
 
-**Lorem ipsum?**
+## Lit review
 
-- Lorem ipsum.
+### What's the point of a lit review?
 
-<br>
+- To give your readers the necessary context for your research.
+- To motivate why your research question is interesting.
+- To explain why you make the predictions that you make.
 
-<!-- 
 
-What's our research question?
+### How do we know what's important to say about a given paper?
 
-How many words should the introduction/methods/results/discussion/conclusion have?
+- Try the following three-step process (hat tip to
+[Dr. Joléne van der Mescht](https://edwebprofiles.ed.ac.uk/profile/dr-jolene-van-der-mescht){target="_blank"}):
+  1. What did the authors do? (their question and methods)
+  2. What did they find? (their results, prioritising what's relevant for your RQ)
+  3. Your critical comment / evaluation / "so what?", for example:
+      - What implications do their findings have?
+      - How do their findings relate to other papers' findings?
+      - What predictions would you make for your RQ, based on their results?
 
-How many papers do we need to cite?
 
--->
+### How do we know what order to put ideas in?
+
+- A good general strategy:
+  1. Identify the key message(s) of each paper you want to mention.
+  2. Write down all the pieces of information that are needed for understanding the key messages (all keywords, main topics, etc.)
+  3. Group together the pieces of information that show up repeatedly in different papers.
+  4. Think: Which of those pieces of information are needed for understanding other pieces of information? Which pieces of information can stand alone?
+  5. Try to put all the pieces of information in an order that builds the reader's understanding. Use each piece of information as a stepping stone toward the next piece of information.
+- If the research question combines a couple different ideas (let's call the ideas A and B), then a good three-part structure is often:
+  1. What do we know about A? (Prioritise the detail that's relevant for the RQ)
+      - e.g., statistical learning in general
+      - relevant detail: transitional probabilities (TPs) can be different
+  2. What do we know about B? (Prioritise the detail that's relevant for the RQ)
+      - e.g., autism in general
+      - relevant detail: local processing has priority over global processing
+  3. What do we know, and what do we wonder, about how A and B come together? Based on the information from Sections 1 and 2, what predictions can we make?
+      - e.g., that autistic people might use distributional cues like TPs differently than allistic people do, because autistic people prioritise lower-level local information
+      
+
+### How many papers do we need to cite?
+
+- There's no set number that means you've cited enough papers.
+- The more papers you read and interact with, the stronger and more well-founded your argument will be.
+
+
+### How much literature is enough? How do we know when to stop reading?
+
+- Double-check that you've covered all the widely-cited key papers (e.g., by searching keywords on Google Scholar and looking for papers cited >100 or especially >1000 times).
+- After that: you've probably read enough when all the claims that you want to make are justified/supported by the literature.
+
+
+## Research report
+
+### How many words should the introduction / methods / results / discussion / conclusion section have?
+
+- There's no set number of words for each section.
+- Focus more on saying everything that you want to say, rather than the specific length of each section.
+- If in doubt, I recommend that you start by writing too much, and then you can trim it down later.
+
+
+### Do we need to submit analysis code?
+
+- Nope!
+- You just need to report/explain your analysis clearly enough that someone else could replicate it fully without seeing your code (like in the DAPR reports).
+
+
+### Can we include figures/plots in the Discussion section?
+
+- Depends on the goal of the figure/plot!
+- The Discussion section is for interpreting results, not introducing new results.
+- So if your figure is meant to help the reader interpret your findings, then yes absolutely.
+
+
+### Can the minidiss have a different title than the lit review / poster?
+
+- Yes, please!
+- Customise your title to the research story you're trying to tell.
+- I like titles that are a full (but short) sentence that declare the research finding, e.g., "Autistic traits are associated with [X]".
+
+### Do words in figures, tables, and their captions count toward the word count total?
+
+- Nope. You can include as many words there as you like.
+
+### Do words in the abstract count toward the word count total?
+
+- Nope. The abstract should be max 150 words, and the report should be max 2000 words, so between the two, you have max 2150 words.
+

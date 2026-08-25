@@ -1,6 +1,6 @@
 ---
 title: "Meeting 1: What is statistical learning? (It's not learning stats)"
-subtitle: "date"
+subtitle: "30 September 2026"
 ---
 
 ### Handout
@@ -17,12 +17,12 @@ subtitle: "date"
 
 ### Links
 
-- Experience statistical learning for yourself: TODO TESTABLE EXPERIMENT
-- Research tasks spreadsheet: TODO SPREADSHEET
+- Experience statistical learning for yourself
+- [Sign-up sheet for collaborative tasks](https://uoe-my.sharepoint.com/:x:/g/personal/epankrat_ed_ac_uk/IQCgsyxP_QlFRq7Fl5JZlCOXAYGyn6KNOMOqjgLcBRRUkuU){target="_blank"}
 
 <br>
 
 ### Before our next meeting
 
-- Sign yourself up for a combination of tasks in the spreadsheet linked above.
-- Make a group whatsapp chat / email thread / discord server / whatever for organising yourselves and staying in touch with one another.
+- Sign yourself up for a combination of tasks in the sheet linked above.
+- Make a group whatsapp chat / email thread / discord server / whatever you want for organising yourselves and staying in touch with one another.

@@ -4,7 +4,7 @@
     "href": "meetings/1.html",
     "title": "Meeting 1: What is statistical learning? (It’s not learning stats)",
     "section": "",
-    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nExperience statistical learning for yourself: TODO TESTABLE EXPERIMENT\nResearch tasks spreadsheet: TODO SPREADSHEET\n\n\n\n\nBefore our next meeting\n\nSign yourself up for a combination of tasks in the spreadsheet linked above.\nMake a group whatsapp chat / email thread / discord server / whatever for organising yourselves and staying in touch with one another.",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nExperience statistical learning for yourself\nSign-up sheet for collaborative tasks\n\n\n\n\nBefore our next meeting\n\nSign yourself up for a combination of tasks in the sheet linked above.\nMake a group whatsapp chat / email thread / discord server / whatever you want for organising yourselves and staying in touch with one another.",
     "crumbs": [
       "Meeting materials",
       "1: Statistical learning"
@@ -26,7 +26,7 @@
     "href": "index.html",
     "title": "Psychology mini-dissertation 2026/27",
     "section": "",
-    "text": "lorem ipsum",
+    "text": "Project keywords\n\nstatistical learning\ntransitional probabilities\nneurodiversity\nautism\nbehavioural experiment\n\n\n\nProject background\nHumans are very good at learning sequences: for example, the sequences of notes that combine to make songs, or the sequences of syllables that combine to make words. The key cognitive process that helps humans learn sequences is called “statistical learning” (it has nothing to do with learning how to do stats!). As you experience a sequence of syllables, for example, you’ll gradually develop a sense that, if you hear a certain syllable, you can make a reasonable guess about what syllable will come next. That sense means that you’re learning the distributional statistics of the sequence. In other words, it means you’re doing statistical learning (see, e.g., Saffran et al., 1996; Isbilen & Christiansen, 2022).\nA more concrete example: think about the English sequence “pretty baby”, which sound something like “prih-tee bay-bee”. After you’ve heard “prih”, there aren’t many syllables that can come next and make a good English word. “Mih”, maybe, for “primitive”, or “tee” for “pretty” (maybe you can think of other ones!). We say that the syllable sequence “prih-tee” has a high transitional probability. This is because the probability that “tee” comes after “prih” is relatively high (or: once you’ve heard “prih”, you can predict fairly confidently what syllable will come next).\nIn contrast, after you’ve heard “tee”, you’re at the end of the word, and there are a lot of English syllables that can come next. “Good”, “cat”, “bay” … we say that the syllable sequence “tee-bay” has a low transitional probability, because the probability that “bay” comes after “tee” is relatively low (or: once you’ve heard “tee”, you can’t really predict very confidently what will come next).\nNow let’s bring in the autism angle. Autistic cognition is characterised by locally-oriented sensory processing (reflecting what’s commonly called “attention to detail”) and a preference for predictable input (see, e.g., Mottron et al., 2006). In light of this, we want to know: how does autistic cognition impact statistical learning?\nImportantly, throughout this project, we will consider autism as a difference in cognition that results from natural variation, rather than a deficit, in line with neurodiversity-positive approaches (see, e.g., Manalili et al., 2023; Walker & Raymaker, 2021).\nWe know that autistic people are just as good at statistical learning as allistic (non-autistic) people (see, e.g., Obeid et al., 2016; Haebig et al., 2017). But we want to dig in deeper. Based on previous research, we expect that people will be better at recognising syllable sequences that have higher transitional probabilities, compared to sequences with lower transitional probabilities (see, e.g., Pankratz et al., 2024). But for the syllable sequences with low transitional probabilities:\n\ndo autistic people learn them better than allistic people, because of autistic people’s superior processing of local dependencies?\nOr do autistic people learn them worse than allistic people, because autistic people are more disrupted by the unpredictable input?\n\nMore broadly, the research question that will guide our project is:\n\nAre people less accurate at recognising lower-probability syllable sequences compared to higher-probability ones, and is this difference affected by people’s level of autistic traits?\n\nTo answer this question, we will run a behavioural statistical learning experiment using Testable, ask participants to fill in the AQ10 questionnaire (Allison et al., 2012), and analyse the results using a logistic mixed-effects regression model (you’ll learn about mixed-effects models with me in DAPR3).",
     "crumbs": [
       "Home"
     ]
@@ -36,10 +36,112 @@
     "href": "info/faqs.html",
     "title": "Project FAQs",
     "section": "",
-    "text": "Lorem ipsum?\n\nLorem ipsum.\n\nLorem ipsum?\n\nLorem ipsum.\n\nLorem ipsum?\n\nLorem ipsum.",
+    "text": "If you have a project question that’s not addressed here, then shoot Elizabeth an email!\nIf you have a question about the minidiss course overall, then you can contact the course organiser, Dr. Aliff Mohd Sharif.",
     "crumbs": [
       "Course information",
       "Project FAQs"
+    ]
+  },
+  {
+    "objectID": "info/sched.html",
+    "href": "info/sched.html",
+    "title": "Project meetings overview",
+    "section": "",
+    "text": "Date\nSemester\nWeek\nMeeting\nMeeting topic (prospective)\n\n\n\n\n30 Sep 2026\n1\n2\n1\nStatistical learning\n\n\n21 Oct 2026\n1\n5\n2\nSynthesising academic literature\n\n\n11 Nov 2026\n1\n8\n3\nCoherence in academic writing\n\n\n02 Dec 2026\n1\n11\n4\nOur experiment design\n\n\n20 Jan 2027\n2\n2\n5\nApplying for ethical approval\n\n\n10 Feb 2027\n2\n5\n6\nLive R practice analysis\n\n\n03 Mar 2027\n2\n7\n7\nContinue practice analysis OR develop poster presentation (vote in Meeting 6)\n\n\n24 Mar 2027\n2\n10\n8\nStructuring and writing a research paper",
+    "crumbs": [
+      "Course information",
+      "Project meetings overview"
+    ]
+  },
+  {
+    "objectID": "info/faqs.html#lit-review",
+    "href": "info/faqs.html#lit-review",
+    "title": "Project FAQs",
+    "section": "Lit review",
+    "text": "Lit review\n\nWhat’s the point of a lit review?\n\nTo give your readers the necessary context for your research.\nTo motivate why your research question is interesting.\nTo explain why you make the predictions that you make.\n\n\n\nHow do we know what’s important to say about a given paper?\n\nTry the following three-step process (hat tip to Dr. Joléne van der Mescht):\n\nWhat did the authors do? (their question and methods)\nWhat did they find? (their results, prioritising what’s relevant for your RQ)\nYour critical comment / evaluation / “so what?”, for example:\n\nWhat implications do their findings have?\nHow do their findings relate to other papers’ findings?\nWhat predictions would you make for your RQ, based on their results?\n\n\n\n\n\nHow do we know what order to put ideas in?\n\nA good general strategy:\n\nIdentify the key message(s) of each paper you want to mention.\nWrite down all the pieces of information that are needed for understanding the key messages (all keywords, main topics, etc.)\nGroup together the pieces of information that show up repeatedly in different papers.\nThink: Which of those pieces of information are needed for understanding other pieces of information? Which pieces of information can stand alone?\nTry to put all the pieces of information in an order that builds the reader’s understanding. Use each piece of information as a stepping stone toward the next piece of information.\n\nIf the research question combines a couple different ideas (let’s call the ideas A and B), then a good three-part structure is often:\n\nWhat do we know about A? (Prioritise the detail that’s relevant for the RQ)\n\ne.g., statistical learning in general\nrelevant detail: transitional probabilities (TPs) can be different\n\nWhat do we know about B? (Prioritise the detail that’s relevant for the RQ)\n\ne.g., autism in general\nrelevant detail: local processing has priority over global processing\n\nWhat do we know, and what do we wonder, about how A and B come together? Based on the information from Sections 1 and 2, what predictions can we make?\n\ne.g., that autistic people might use distributional cues like TPs differently than allistic people do, because autistic people prioritise lower-level local information\n\n\n\n\n\nHow many papers do we need to cite?\n\nThere’s no set number that means you’ve cited enough papers.\nThe more papers you read and interact with, the stronger and more well-founded your argument will be.\n\n\n\nHow much literature is enough? How do we know when to stop reading?\n\nDouble-check that you’ve covered all the widely-cited key papers (e.g., by searching keywords on Google Scholar and looking for papers cited &gt;100 or especially &gt;1000 times).\nAfter that: you’ve probably read enough when all the claims that you want to make are justified/supported by the literature.",
+    "crumbs": [
+      "Course information",
+      "Project FAQs"
+    ]
+  },
+  {
+    "objectID": "info/faqs.html#research-report",
+    "href": "info/faqs.html#research-report",
+    "title": "Project FAQs",
+    "section": "Research report",
+    "text": "Research report\n\nHow many words should the introduction / methods / results / discussion / conclusion section have?\n\nThere’s no set number of words for each section.\nFocus more on saying everything that you want to say, rather than the specific length of each section.\nIf in doubt, I recommend that you start by writing too much, and then you can trim it down later.\n\n\n\nDo we need to submit analysis code?\n\nNope!\nYou just need to report/explain your analysis clearly enough that someone else could replicate it fully without seeing your code (like in the DAPR reports).\n\n\n\nCan we include figures/plots in the Discussion section?\n\nDepends on the goal of the figure/plot!\nThe Discussion section is for interpreting results, not introducing new results.\nSo if your figure is meant to help the reader interpret your findings, then yes absolutely.\n\n\n\nCan the minidiss have a different title than the lit review / poster?\n\nYes, please!\nCustomise your title to the research story you’re trying to tell.\nI like titles that are a full (but short) sentence that declare the research finding, e.g., “Autistic traits are associated with [X]”.\n\n\n\nDo words in figures, tables, and their captions count toward the word count total?\n\nNope. You can include as many words there as you like.\n\n\n\nDo words in the abstract count toward the word count total?\n\nNope. The abstract should be max 150 words, and the report should be max 2000 words, so between the two, you have max 2150 words.",
+    "crumbs": [
+      "Course information",
+      "Project FAQs"
+    ]
+  },
+  {
+    "objectID": "meetings/8.html",
+    "href": "meetings/8.html",
+    "title": "Meeting 8: Structuring and writing a research paper",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
+    "crumbs": [
+      "Meeting materials",
+      "8: Structuring and writing a research paper"
+    ]
+  },
+  {
+    "objectID": "meetings/6.html",
+    "href": "meetings/6.html",
+    "title": "Meeting 6: Live R practice analysis",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
+    "crumbs": [
+      "Meeting materials",
+      "6: Live R practice analysis"
+    ]
+  },
+  {
+    "objectID": "meetings/4.html",
+    "href": "meetings/4.html",
+    "title": "Meeting 4: Our experiment design",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
+    "crumbs": [
+      "Meeting materials",
+      "4: Our experiment design"
+    ]
+  },
+  {
+    "objectID": "meetings/2.html",
+    "href": "meetings/2.html",
+    "title": "Meeting 2: Synthesising academic literature",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
+  },
+  {
+    "objectID": "meetings/3.html",
+    "href": "meetings/3.html",
+    "title": "Meeting 3: Coherence in academic writing",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
+  },
+  {
+    "objectID": "meetings/5.html",
+    "href": "meetings/5.html",
+    "title": "Meeting 5: Applying for ethical approval",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
+    "crumbs": [
+      "Meeting materials",
+      "5: Applying for ethical approval"
+    ]
+  },
+  {
+    "objectID": "meetings/7.html",
+    "href": "meetings/7.html",
+    "title": "Meeting 7: TBD",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
+    "crumbs": [
+      "Meeting materials",
+      "7: TBD"
     ]
   }
 ]

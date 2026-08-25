@@ -1,13 +1,54 @@
 ---
 title: "Psychology mini-dissertation 2026/27"
 subtitle: "Materials for the research project supervised by Dr. Elizabeth Pankratz"
+toc: false
 ---
 
-lorem ipsum
+### Project keywords
 
+- statistical learning
+- transitional probabilities
+- neurodiversity
+- autism
+- behavioural experiment
 
+### Project background
 
+Humans are very good at learning sequences: for example, the sequences of notes that combine to make songs, or the sequences of syllables that combine to make words.
+The key cognitive process that helps humans learn sequences is called "statistical learning" (it has nothing to do with learning how to do stats!).
+As you experience a sequence of syllables, for example, you'll gradually develop a sense that, if you hear a certain syllable, you can make a reasonable guess about what syllable will come next.
+That sense means that you're learning the distributional statistics of the sequence.
+In other words, it means you're doing statistical learning (see, e.g., [Saffran et al., 1996](https://linkinghub.elsevier.com/retrieve/pii/S0749596X96900327){target="_blank"}; [Isbilen & Christiansen, 2022](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13198){target="_blank"}).
 
+A more concrete example: think about the English sequence "pretty baby", which sound something like "prih-tee bay-bee".
+After you've heard "prih", there aren't many syllables that can come next and make a good English word.
+"Mih", maybe, for "primitive", or "tee" for "pretty" (maybe you can think of other ones!).
+We say that the syllable sequence "prih-tee" has a **high transitional probability**.
+This is because the probability that "tee" comes after "prih" is relatively high (or: once you've heard "prih", you can predict fairly confidently what syllable will come next).
+
+In contrast, after you've heard "tee", you're at the end of the word, and there are a *lot* of English syllables that can come next.
+"Good", "cat", "bay" ...
+we say that the syllable sequence "tee-bay" has a **low transitional probability**, because the probability that "bay" comes after "tee" is relatively low (or: once you've heard "tee", you can't really predict very confidently what will come next).
+
+Now let's bring in the autism angle.
+Autistic cognition is characterised by locally-oriented sensory processing (reflecting what's commonly called "attention to detail") and a preference for predictable input (see, e.g., [Mottron et al., 2006](http://link.springer.com/10.1007/s10803-005-0040-7){target="_blank"}).
+In light of this, we want to know: how does autistic cognition impact statistical learning?
+
+Importantly, throughout this project, we will consider autism as a *difference* in cognition that results from natural variation, rather than a *deficit*, in line with neurodiversity-positive approaches (see, e.g., [Manalili et al., 2023](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13255){target="_blank"}; [Walker & Raymaker, 2021](https://www.liebertpub.com/doi/10.1089/aut.2020.29014.njw){target="_blank"}).
+
+We know that autistic people are just as good at statistical learning as allistic (non-autistic) people (see, e.g., [Obeid et al., 2016](http://journal.frontiersin.org/Article/10.3389/fpsyg.2016.01245/abstract){target="_blank"}; [Haebig et al., 2017](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12734){target="_blank"}).
+But we want to dig in deeper.
+Based on previous research, we expect that people will be better at recognising syllable sequences that have higher transitional probabilities, compared to sequences with lower transitional probabilities (see, e.g., [Pankratz et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13429){target="_blank"}).
+But for the syllable sequences with low transitional probabilities:
+
+- do autistic people learn them *better* than allistic people, because of autistic people's superior processing of local dependencies?
+- Or do autistic people learn them *worse* than allistic people, because autistic people are more disrupted by the unpredictable input?
+
+More broadly, the research question that will guide our project is:
+
+- Are people less accurate at recognising lower-probability syllable sequences compared to higher-probability ones, and is this difference affected by people's level of autistic traits?
+
+To answer this question, we will run a behavioural statistical learning experiment using Testable, ask participants to fill in the AQ10 questionnaire ([Allison et al., 2012](https://www.jaacap.org/article/S0890-8567(11)01033-1/abstract){target="_blank"}), and analyse the results using a logistic mixed-effects regression model (you'll learn about mixed-effects models with me in DAPR3).
 
 
 <!-- 
