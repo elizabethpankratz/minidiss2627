@@ -31,7 +31,7 @@ In contrast, after you've heard "tee", you're at the end of the word, and there 
 we say that the syllable sequence "tee-bay" has a **low transitional probability**, because the probability that "bay" comes after "tee" is relatively low (or: once you've heard "tee", you can't really predict very confidently what will come next).
 
 Now let's bring in the autism angle.
-Autistic cognition is characterised by locally-oriented sensory processing (reflecting what's commonly called "attention to detail") and a preference for predictable input (see, e.g., [Mottron et al., 2006](http://link.springer.com/10.1007/s10803-005-0040-7){target="_blank"}).
+Autistic cognition is characterised by locally-oriented sensory processing (reflecting what's commonly called "attention to detail") and a preference for predictable input (see, e.g., [Mottron et al., 2006](http://link.springer.com/10.1007/s10803-005-0040-7){target="_blank"}; [Van de Cruys et al., 2014](https://doi.apa.org/doi/10.1037/a0037665){target="_blank"}).
 In light of this, we want to know: how does autistic cognition impact statistical learning?
 
 Importantly, throughout this project, we will consider autism as a *difference* in cognition that results from natural variation, rather than a *deficit*, in line with neurodiversity-positive approaches (see, e.g., [Manalili et al., 2023](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13255){target="_blank"}; [Walker & Raymaker, 2021](https://www.liebertpub.com/doi/10.1089/aut.2020.29014.njw){target="_blank"}).

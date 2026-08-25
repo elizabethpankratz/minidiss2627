@@ -1,13 +1,41 @@
 [
   {
-    "objectID": "meetings/1.html",
-    "href": "meetings/1.html",
-    "title": "Meeting 1: What is statistical learning? (It’s not learning stats)",
+    "objectID": "meetings/8.html",
+    "href": "meetings/8.html",
+    "title": "Meeting 8: Structuring and writing a research paper",
     "section": "",
-    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nExperience statistical learning for yourself\nSign-up sheet for collaborative tasks\n\n\n\n\nBefore our next meeting\n\nSign yourself up for a combination of tasks in the sheet linked above.\nMake a group whatsapp chat / email thread / discord server / whatever you want for organising yourselves and staying in touch with one another.",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
+  },
+  {
+    "objectID": "meetings/6.html",
+    "href": "meetings/6.html",
+    "title": "Meeting 6: Live R practice analysis",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
+  },
+  {
+    "objectID": "meetings/4.html",
+    "href": "meetings/4.html",
+    "title": "Meeting 4: Our experiment design",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
+  },
+  {
+    "objectID": "meetings/2.html",
+    "href": "meetings/2.html",
+    "title": "Meeting 2: Synthesising academic literature",
+    "section": "",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
+  },
+  {
+    "objectID": "info/sched.html",
+    "href": "info/sched.html",
+    "title": "Project meetings overview",
+    "section": "",
+    "text": "Date\nSemester\nWeek\nMeeting\nMeeting topic (prospective)\n\n\n\n\n30 Sep 2026\n1\n2\n1\nOur research project\n\n\n21 Oct 2026\n1\n5\n2\nSynthesising academic literature\n\n\n11 Nov 2026\n1\n8\n3\nCoherence in academic writing\n\n\n02 Dec 2026\n1\n11\n4\nOur experiment design\n\n\n20 Jan 2027\n2\n2\n5\nApplying for ethical approval\n\n\n10 Feb 2027\n2\n5\n6\nLive R practice analysis\n\n\n03 Mar 2027\n2\n7\n7\nContinue practice analysis OR develop poster presentation (vote in Meeting 6)\n\n\n24 Mar 2027\n2\n10\n8\nStructuring and writing a research paper",
     "crumbs": [
-      "Meeting materials",
-      "1: Statistical learning"
+      "Course information",
+      "Project meetings overview"
     ]
   },
   {
@@ -26,7 +54,7 @@
     "href": "index.html",
     "title": "Psychology mini-dissertation 2026/27",
     "section": "",
-    "text": "Project keywords\n\nstatistical learning\ntransitional probabilities\nneurodiversity\nautism\nbehavioural experiment\n\n\n\nProject background\nHumans are very good at learning sequences: for example, the sequences of notes that combine to make songs, or the sequences of syllables that combine to make words. The key cognitive process that helps humans learn sequences is called “statistical learning” (it has nothing to do with learning how to do stats!). As you experience a sequence of syllables, for example, you’ll gradually develop a sense that, if you hear a certain syllable, you can make a reasonable guess about what syllable will come next. That sense means that you’re learning the distributional statistics of the sequence. In other words, it means you’re doing statistical learning (see, e.g., Saffran et al., 1996; Isbilen & Christiansen, 2022).\nA more concrete example: think about the English sequence “pretty baby”, which sound something like “prih-tee bay-bee”. After you’ve heard “prih”, there aren’t many syllables that can come next and make a good English word. “Mih”, maybe, for “primitive”, or “tee” for “pretty” (maybe you can think of other ones!). We say that the syllable sequence “prih-tee” has a high transitional probability. This is because the probability that “tee” comes after “prih” is relatively high (or: once you’ve heard “prih”, you can predict fairly confidently what syllable will come next).\nIn contrast, after you’ve heard “tee”, you’re at the end of the word, and there are a lot of English syllables that can come next. “Good”, “cat”, “bay” … we say that the syllable sequence “tee-bay” has a low transitional probability, because the probability that “bay” comes after “tee” is relatively low (or: once you’ve heard “tee”, you can’t really predict very confidently what will come next).\nNow let’s bring in the autism angle. Autistic cognition is characterised by locally-oriented sensory processing (reflecting what’s commonly called “attention to detail”) and a preference for predictable input (see, e.g., Mottron et al., 2006). In light of this, we want to know: how does autistic cognition impact statistical learning?\nImportantly, throughout this project, we will consider autism as a difference in cognition that results from natural variation, rather than a deficit, in line with neurodiversity-positive approaches (see, e.g., Manalili et al., 2023; Walker & Raymaker, 2021).\nWe know that autistic people are just as good at statistical learning as allistic (non-autistic) people (see, e.g., Obeid et al., 2016; Haebig et al., 2017). But we want to dig in deeper. Based on previous research, we expect that people will be better at recognising syllable sequences that have higher transitional probabilities, compared to sequences with lower transitional probabilities (see, e.g., Pankratz et al., 2024). But for the syllable sequences with low transitional probabilities:\n\ndo autistic people learn them better than allistic people, because of autistic people’s superior processing of local dependencies?\nOr do autistic people learn them worse than allistic people, because autistic people are more disrupted by the unpredictable input?\n\nMore broadly, the research question that will guide our project is:\n\nAre people less accurate at recognising lower-probability syllable sequences compared to higher-probability ones, and is this difference affected by people’s level of autistic traits?\n\nTo answer this question, we will run a behavioural statistical learning experiment using Testable, ask participants to fill in the AQ10 questionnaire (Allison et al., 2012), and analyse the results using a logistic mixed-effects regression model (you’ll learn about mixed-effects models with me in DAPR3).",
+    "text": "Project keywords\n\nstatistical learning\ntransitional probabilities\nneurodiversity\nautism\nbehavioural experiment\n\n\n\nProject background\nHumans are very good at learning sequences: for example, the sequences of notes that combine to make songs, or the sequences of syllables that combine to make words. The key cognitive process that helps humans learn sequences is called “statistical learning” (it has nothing to do with learning how to do stats!). As you experience a sequence of syllables, for example, you’ll gradually develop a sense that, if you hear a certain syllable, you can make a reasonable guess about what syllable will come next. That sense means that you’re learning the distributional statistics of the sequence. In other words, it means you’re doing statistical learning (see, e.g., Saffran et al., 1996; Isbilen & Christiansen, 2022).\nA more concrete example: think about the English sequence “pretty baby”, which sound something like “prih-tee bay-bee”. After you’ve heard “prih”, there aren’t many syllables that can come next and make a good English word. “Mih”, maybe, for “primitive”, or “tee” for “pretty” (maybe you can think of other ones!). We say that the syllable sequence “prih-tee” has a high transitional probability. This is because the probability that “tee” comes after “prih” is relatively high (or: once you’ve heard “prih”, you can predict fairly confidently what syllable will come next).\nIn contrast, after you’ve heard “tee”, you’re at the end of the word, and there are a lot of English syllables that can come next. “Good”, “cat”, “bay” … we say that the syllable sequence “tee-bay” has a low transitional probability, because the probability that “bay” comes after “tee” is relatively low (or: once you’ve heard “tee”, you can’t really predict very confidently what will come next).\nNow let’s bring in the autism angle. Autistic cognition is characterised by locally-oriented sensory processing (reflecting what’s commonly called “attention to detail”) and a preference for predictable input (see, e.g., Mottron et al., 2006; Van de Cruys et al., 2014). In light of this, we want to know: how does autistic cognition impact statistical learning?\nImportantly, throughout this project, we will consider autism as a difference in cognition that results from natural variation, rather than a deficit, in line with neurodiversity-positive approaches (see, e.g., Manalili et al., 2023; Walker & Raymaker, 2021).\nWe know that autistic people are just as good at statistical learning as allistic (non-autistic) people (see, e.g., Obeid et al., 2016; Haebig et al., 2017). But we want to dig in deeper. Based on previous research, we expect that people will be better at recognising syllable sequences that have higher transitional probabilities, compared to sequences with lower transitional probabilities (see, e.g., Pankratz et al., 2024). But for the syllable sequences with low transitional probabilities:\n\ndo autistic people learn them better than allistic people, because of autistic people’s superior processing of local dependencies?\nOr do autistic people learn them worse than allistic people, because autistic people are more disrupted by the unpredictable input?\n\nMore broadly, the research question that will guide our project is:\n\nAre people less accurate at recognising lower-probability syllable sequences compared to higher-probability ones, and is this difference affected by people’s level of autistic traits?\n\nTo answer this question, we will run a behavioural statistical learning experiment using Testable, ask participants to fill in the AQ10 questionnaire (Allison et al., 2012), and analyse the results using a logistic mixed-effects regression model (you’ll learn about mixed-effects models with me in DAPR3).",
     "crumbs": [
       "Home"
     ]
@@ -40,17 +68,6 @@
     "crumbs": [
       "Course information",
       "Project FAQs"
-    ]
-  },
-  {
-    "objectID": "info/sched.html",
-    "href": "info/sched.html",
-    "title": "Project meetings overview",
-    "section": "",
-    "text": "Date\nSemester\nWeek\nMeeting\nMeeting topic (prospective)\n\n\n\n\n30 Sep 2026\n1\n2\n1\nStatistical learning\n\n\n21 Oct 2026\n1\n5\n2\nSynthesising academic literature\n\n\n11 Nov 2026\n1\n8\n3\nCoherence in academic writing\n\n\n02 Dec 2026\n1\n11\n4\nOur experiment design\n\n\n20 Jan 2027\n2\n2\n5\nApplying for ethical approval\n\n\n10 Feb 2027\n2\n5\n6\nLive R practice analysis\n\n\n03 Mar 2027\n2\n7\n7\nContinue practice analysis OR develop poster presentation (vote in Meeting 6)\n\n\n24 Mar 2027\n2\n10\n8\nStructuring and writing a research paper",
-    "crumbs": [
-      "Course information",
-      "Project meetings overview"
     ]
   },
   {
@@ -76,44 +93,15 @@
     ]
   },
   {
-    "objectID": "meetings/8.html",
-    "href": "meetings/8.html",
-    "title": "Meeting 8: Structuring and writing a research paper",
+    "objectID": "meetings/1.html",
+    "href": "meetings/1.html",
+    "title": "1: Our research project",
     "section": "",
-    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nBefore our next meeting\n\nSign yourself up for a combination of tasks in this sign-up sheet.\nMake a group whatsapp chat / email thread / discord server / whatever you want for organising yourselves and staying in touch with one another.\nIf you feel inspired: start reading the recommended papers.",
     "crumbs": [
       "Meeting materials",
-      "8: Structuring and writing a research paper"
+      "1: Our research project"
     ]
-  },
-  {
-    "objectID": "meetings/6.html",
-    "href": "meetings/6.html",
-    "title": "Meeting 6: Live R practice analysis",
-    "section": "",
-    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
-    "crumbs": [
-      "Meeting materials",
-      "6: Live R practice analysis"
-    ]
-  },
-  {
-    "objectID": "meetings/4.html",
-    "href": "meetings/4.html",
-    "title": "Meeting 4: Our experiment design",
-    "section": "",
-    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
-    "crumbs": [
-      "Meeting materials",
-      "4: Our experiment design"
-    ]
-  },
-  {
-    "objectID": "meetings/2.html",
-    "href": "meetings/2.html",
-    "title": "Meeting 2: Synthesising academic literature",
-    "section": "",
-    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
   },
   {
     "objectID": "meetings/3.html",
@@ -127,21 +115,13 @@
     "href": "meetings/5.html",
     "title": "Meeting 5: Applying for ethical approval",
     "section": "",
-    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
-    "crumbs": [
-      "Meeting materials",
-      "5: Applying for ethical approval"
-    ]
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
   },
   {
     "objectID": "meetings/7.html",
     "href": "meetings/7.html",
     "title": "Meeting 7: TBD",
     "section": "",
-    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx",
-    "crumbs": [
-      "Meeting materials",
-      "7: TBD"
-    ]
+    "text": "Handout\n\n    Looks like you don't have a PDF plugin for this browser.\n    That's not a problem, you can just click here to\n    download the PDF file.\n\n\n\n\nLinks\n\nx\n\n\n\n\nBefore our next meeting\n\nx"
   }
 ]
