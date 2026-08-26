@@ -6,18 +6,25 @@ subtitle: "21 October 2026"
 ### Handout
 
 ```{=html}
-<object data="handout1.pdf" type="application/pdf" width="100%" height="100%" style="min-height:50vh;">
+<object data="minidiss2627-handout2.pdf" type="application/pdf" width="100%" height="100%" style="min-height:50vh;">
     <p>Looks like you don't have a PDF plugin for this browser.
-    That's not a problem, you can just <a href="handout1.pdf">click here to
+    That's not a problem, you can just <a href="minidiss2627-handout2.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 
 <br>
 
-### Links
+### Abstracts for jigsaw activity
 
-- x
+```{=html}
+<object data="minidiss2627-jigsaw2.pdf" type="application/pdf" width="100%" height="100%" style="min-height:50vh;">
+    <p>Looks like you don't have a PDF plugin for this browser.
+    That's not a problem, you can just <a href="minidiss2627-jigsaw2.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
 
 <br>
 

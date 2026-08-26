@@ -16,18 +16,6 @@ If you have a question about the minidiss course overall, then you can contact t
 - To explain why you make the predictions that you make.
 
 
-### How do we know what's important to say about a given paper?
-
-- Try the following three-step process (hat tip to
-[Dr. Joléne van der Mescht](https://edwebprofiles.ed.ac.uk/profile/dr-jolene-van-der-mescht){target="_blank"}):
-  1. What did the authors do? (their question and methods)
-  2. What did they find? (their results, prioritising what's relevant for your RQ)
-  3. Your critical comment / evaluation / "so what?", for example:
-      - What implications do their findings have?
-      - How do their findings relate to other papers' findings?
-      - What predictions would you make for your RQ, based on their results?
-
-
 ### How do we know what order to put ideas in?
 
 - A good general strategy:
