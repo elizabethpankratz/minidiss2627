@@ -6,17 +6,25 @@ subtitle: "30 September 2026"
 ### Handout
 
 ```{=html}
-<object data="handout1.pdf" type="application/pdf" width="100%" height="100%" style="min-height:50vh;">
+<object data="minidiss2627-handout1.pdf" type="application/pdf" width="100%" height="100%" style="min-height:50vh;">
     <p>Looks like you don't have a PDF plugin for this browser.
-    That's not a problem, you can just <a href="handout1.pdf">click here to
+    That's not a problem, you can just <a href="minidiss2627-handout1.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 
 <br>
 
+### The experiment
+
+[Click here to access the statistical learning experiment.](https://tstbl.co/764-211){target="_blank"}
+
+
 ### Before our next meeting
 
 - Sign yourself up for a combination of tasks in [this sign-up sheet](https://uoe-my.sharepoint.com/:x:/g/personal/epankrat_ed_ac_uk/IQCgsyxP_QlFRq7Fl5JZlCOXAYGyn6KNOMOqjgLcBRRUkuU){target="_blank"}.
 - Make a group whatsapp chat / email thread / discord server / whatever you want for organising yourselves and staying in touch with one another.
-- If you feel inspired: start reading the recommended papers.
+
+Optional, if you have time and want to work ahead:
+
+- Start reading the papers recommended at the end of the handout.

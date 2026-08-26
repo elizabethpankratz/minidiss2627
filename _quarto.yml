@@ -31,8 +31,7 @@ website:
       - section: "Meeting materials"
         contents:
           - meetings/1.qmd
-          # - href: meetings/2.qmd
-          #   text: '2: Synthesising academic literature'
+          # - meetings/2.qmd
           # - href: meetings/3.qmd
           #   text: '3: Coherence in academic writing'
           # - href: meetings/4.qmd
@@ -49,14 +48,14 @@ website:
       - section: "Additional resources"
         contents:
           - href: https://dl.acm.org/doi/10.1145/1273445.1273458
-            text: "How to read a paper (Keshav, 2006)"
+            text: "Keshav (2006): How to read a paper"
             target: "_blank"
-          - href: https://elizabethpankratz.github.io/posts/01-phd-litreview/
-            text: "Synthesis matrix input with Google/MS Forms"
-            target: "_blank"
+          # - href: https://elizabethpankratz.github.io/posts/01-phd-litreview/
+          #   text: "Synthesis matrix input with Google/MS Forms"
+          #   target: "_blank"
           # - href: https://uoepsy.github.io/dapr3/2627/flashcards/block1/reporting.html
-            # text: "How to report results"
-            # target: "_blank"
+          #   text: "How to report results"
+          #   target: "_blank"
             
 format:
   html:
