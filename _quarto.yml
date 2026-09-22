@@ -18,11 +18,8 @@ website:
         text: "Home"
       - section: "Course information"
         contents:
-          - href: TODO
+          - href: https://www.learn.ed.ac.uk/ultra/courses/_133534_1/outline
             text: "Learn page"
-            target: "_blank"
-          - href: TODO
-            text: "Student handbook"
             target: "_blank"
           - info/sched.qmd
           - info/contact.qmd
