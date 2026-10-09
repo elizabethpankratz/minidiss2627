@@ -30,5 +30,8 @@ subtitle: "21 October 2026"
 
 ### Before our next meeting
 
-- x
-
+- Your individual, non-graded literature review plans (one page max) are due on **Thursday 29 October** (Week 6).
+  - I will read your plans and give each of you formative feedback at the very latest by Thursday November 19 (Week 9), which is one week before your actual lit reviews are due.
+  - Your individual lit reviews (1000 words max, 30% of final course grade) will be due Thursday 26 November (Week 10).
+- Find an academic note-taking system that works for you. 
+The system that works best for me is a **synthesis matrix** (see [Synthesis matrix input with Google/MS Forms](https://elizabethpankratz.github.io/posts/01-phd-litreview/){target="_blank"} link in sidebar).
