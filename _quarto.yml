@@ -50,6 +50,9 @@ website:
           - href: https://elizabethpankratz.github.io/posts/01-phd-litreview/
             text: "Synthesis matrix input with Google/MS Forms"
             target: "_blank"
+          - href: resources/hh_clark_writebetter.pdf
+            text: "Clark (2000): Write better"
+            target: "_blank"
           # - href: https://uoepsy.github.io/dapr3/2627/flashcards/block1/reporting.html
           #   text: "How to report results"
           #   target: "_blank"
