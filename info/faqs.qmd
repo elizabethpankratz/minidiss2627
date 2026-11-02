@@ -9,15 +9,34 @@ If you have a question about the minidiss course overall, then you can contact t
 
 ## Lit review
 
-### What's the point of a lit review?
+### What's the goal of a lit review?
 
-- To give your readers the necessary context for your research.
 - To motivate why your research question is interesting.
 - To explain why you make the predictions that you make.
+- To give your readers the necessary context for understanding your RQ and your predictions.
+- In a way, a lit review is almost like a piece of persuasive writing: persuade your reader, based on the scientific background, that your question is interesting and that your predictions are plausible!
+
+
+### How do we know what target questions are useful while reading?
+
+- For me, a "target question" is a question you have in mind while looking through papers, to help identify
+  - which papers are worth reading at all, and
+  - which information in a paper is relevant and what you can safely overlook.
+- They can be very basic (usually good to answer these at the beginning of the lit review)
+  - "What is statistical learning?"
+  - "What is autism?"
+- They can also get more specific:
+  - "How is autistic perception different from allistic perception?"
+  - "How do autistic people learn new information?"
+- If you find yourself wanting to make a claim like "Not much research has looked at the role of [x] in [y]" or "It's unknown if [x] impacts [y]", turn those into target questions and go back into the literature:
+  - "What is the role of [x] in [y]?"
+  - "How does [x] impact [y]?"
+  - You'll almost always find something that's at least a little bit related!
 
 
 ### How do we know what order to put ideas in?
 
+- There's no single correct answer for how to order ideas or how to tell this story.
 - A good general strategy:
   1. Identify the key message(s) of each paper you want to mention.
   2. Write down all the pieces of information that are needed for understanding the key messages (all keywords, main topics, etc.)
@@ -33,18 +52,15 @@ If you have a question about the minidiss course overall, then you can contact t
       - relevant detail: local processing has priority over global processing
   3. What do we know, and what do we wonder, about how A and B come together? Based on the information from Sections 1 and 2, what predictions can we make?
       - e.g., that autistic people might use distributional cues like TPs differently than allistic people do, because autistic people prioritise lower-level local information
+  - This structure can be tricky, though, because the overall flow and the transitions between each section should also be coherent. Experiment and see what feels best for you as a writer!
       
 
-### How many papers do we need to cite?
+### How much is enough? How do we know when to stop reading? How many papers do we need to cite?
 
 - There's no set number that means you've cited enough papers.
 - The more papers you read and interact with, the stronger and more well-founded your argument will be.
-
-
-### How much literature is enough? How do we know when to stop reading?
-
 - Double-check that you've covered all the widely-cited key papers (e.g., by searching keywords on Google Scholar and looking for papers cited >100 or especially >1000 times).
-- After that: you've probably read enough when all the claims that you want to make are justified/supported by the literature.
+- After that: you've probably read enough when all your target questions are answered and all the claims that you want to make are justified/supported by the literature.
 
 
 ## Research report
