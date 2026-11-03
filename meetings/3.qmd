@@ -6,22 +6,20 @@ subtitle: "11 November 2026"
 ### Handout
 
 ```{=html}
-<object data="handout1.pdf" type="application/pdf" width="100%" height="100%" style="min-height:50vh;">
+<object data="minidiss2627-handout3.pdf" type="application/pdf" width="100%" height="100%" style="min-height:50vh;">
     <p>Looks like you don't have a PDF plugin for this browser.
-    That's not a problem, you can just <a href="handout1.pdf">click here to
+    That's not a problem, you can just <a href="minidiss2627-handout3.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 
 <br>
 
-### Links
-
-- x
-
-<br>
 
 ### Before our next meeting
 
-- x
-
+- Read Clark (2000), linked in the sidebar, and keep Clark's advice in mind while you're writing and editing.
+- Submit your individual lit reviews by **Thursday 26 November** (Week 10).
+- If you want to work together and support one another, you could:
+  - send each other nice literature you've found?
+  - peer-review each others' work before you hand it in?
