@@ -29,8 +29,7 @@ website:
         contents:
           - meetings/1.qmd
           - meetings/2.qmd
-          # - href: meetings/3.qmd
-          #   text: '3: Coherence in academic writing'
+          - meetings/3.qmd
           # - href: meetings/4.qmd
           #   text: '4: Our experiment design'
           # - href: meetings/5.qmd

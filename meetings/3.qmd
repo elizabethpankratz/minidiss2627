@@ -1,5 +1,5 @@
 ---
-title: "Meeting 3: Coherence in academic writing"
+title: "3: Coherence in academic writing"
 subtitle: "11 November 2026"
 ---
 
@@ -18,7 +18,7 @@ subtitle: "11 November 2026"
 
 ### Before our next meeting
 
-- Read Clark (2000), linked in the sidebar, and keep Clark's advice in mind while you're writing and editing.
+- Read [Clark (2000)](https://elizabethpankratz.github.io/minidiss2627/resources/hh_clark_writebetter.pdf){target="_blank"}, also linked in the sidebar, and keep Clark's advice in mind while you're writing and editing.
 - Submit your individual lit reviews by **Thursday 26 November** (Week 10).
 - If you want to work together and support one another, you could:
   - send each other nice literature you've found?
